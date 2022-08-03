@@ -1,2 +1,1 @@
-# praroz-web-design
- 
+# praroz
